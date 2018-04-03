@@ -1,7 +1,7 @@
 {
-  "name": "ostai-rbac",
+  "name": "@ostai/rbac",
   "version": "1.0.0",
-  "description": "ostai-rbac",
+  "description": "Hierarchical role-based access control",
   "main": "lib/index.js",
   "module": "src/index.js",
   "scripts": {
@@ -20,7 +20,10 @@
     "url": "git://github.com/kaelzhang/ostai-rbac.git"
   },
   "keywords": [
-    "ostai-rbac"
+    "rbac",
+    "role-based",
+    "access",
+    "control"
   ],
   "engines": {
     "node": ">=4"
